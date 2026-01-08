@@ -1,0 +1,2 @@
+# rental-duration-prediction-regression-and-Inventory-Optimization
+This project assists a DVD rental company in optimizing inventory planning by predicting the number of days a customer will hold a rental. The analysis employs a regression pipeline—utilizing Lasso for feature selection and Random Forest for prediction-to achieve a Mean Squared Error (MSE) below 3, enabling more accurate stock management.
